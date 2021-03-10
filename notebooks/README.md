@@ -1,1 +1,2 @@
-Place your notebooks in this directory.
+# Figuring out F-Sharp
+This is a series of posts, ....
